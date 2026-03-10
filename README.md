@@ -2,6 +2,16 @@
 Documentation about the wireless plant sensing module.
 
 
+# Photos
+<p align="center">
+<img src="https://github.com/DRAMCO/Plant-sensor/blob/main/Photo/v1v2.jpeg" alt="drawing" width="400"/>
+</p>
+<p align="center">
+<img src="https://github.com/DRAMCO/Plant-sensor/blob/main/Photo/v1.jpg" alt="drawing" width="400"/>
+</p>
+
+
+
 # Publications
 
 ## IEEE Sensors 2024 - Lightweight Energy-Constraint Wireless Sensor Solution for Plant Monitoring
